@@ -1,16 +1,27 @@
-### Hi there 👋
+# PaolaEstudiante
 
-<!--
-**Beniez-paola/Beniez-paola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://user-images.githubusercontent.com/124212478/217955624-f28f37c5-15a4-4151-b962-9e9059353964.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hola compañeros(as) 👋🌸
+
+
+Soy la estudiante 🌸  🥑 Paola Benitez 🥑.
+
+Estoy estudiando en el TecTijuana:
+
+- 📃 Estudie en la preparatoria de Cobach "Ruben Vizcaino Valencia"
+- 😄💻 Estoy estudiando la carrera de ingenieria en sistemas computacionales.
+
+
+Mis gustos:
+
+- 🐕 Me gustan los perros
+- 🐓 Me gustan las gallinas y gallos
+- 🐈 Me gustan los gatos
+
+
+
+### MUCHAS GRACIAS POR LEER 🌸🌸
+
+![image](https://user-images.githubusercontent.com/124212478/217955932-0cd9b178-53e3-4240-af77-a346e266bd39.png)
